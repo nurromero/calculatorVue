@@ -4,6 +4,7 @@ Vue.createApp({
       num1: 0,
       num2: 0,
       result: null,
+      operation: '+'
 
     };
   },
